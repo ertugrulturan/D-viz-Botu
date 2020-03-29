@@ -1,2 +1,4 @@
-# D-viz-Botu
-[PHP] Döviz botu
+# [PHP] Döviz botu
+___________________________________
+
+# Borsadirekt'den anlık olarak veriyi çeker.
